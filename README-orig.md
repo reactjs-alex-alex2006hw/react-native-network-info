@@ -1,6 +1,6 @@
 # react-native-network-info
 
-patched to give back network interface
+React Native library for getting information about the devices network
 
 ## Usage
 
